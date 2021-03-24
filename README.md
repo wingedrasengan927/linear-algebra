@@ -27,6 +27,10 @@ Notes, Ideas, Problems, Experiments on various linear algebra concepts mainly fr
 #### Includes representation of a Matrix as a vector, and problems on Gram-Schimdt Orthogonalization
 * [Abstract Vector Spaces](https://github.com/wingedrasengan927/linear-algebra/blob/main/abstract_vector_spaces.ipynb)
 
+### Eigen Decomposition and Eigen Vectors
+#### Includes problems on Eigendecomposition and Eigenvectors solved manually, and using the SymPy library.
+* [Eigen Decomposition and Eigen Vectors](https://github.com/wingedrasengan927/linear-algebra/blob/main/eigenvectors.ipynb)
+
 ### Singular Value Decomposition
 #### Includes application of SVD, Notes, Articles and Papers
 * [Great Medium Article](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
@@ -35,8 +39,3 @@ Notes, Ideas, Problems, Experiments on various linear algebra concepts mainly fr
 * [The beauty of Orthonormal Eigen Vectors of a Matrix](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/The%20beauty%20of%20orthonormal%20eigen%20vectors%20of%20a%20matrix)
 * [Notes from the above princeton paper](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/Singular%20Value%20Decomposition%20(SVD).pdf)
 
-
-
-### Eigen Decomposition and Eigen Vectors
-#### Includes problems on Eigendecomposition and Eigenvectors solved manually, and using the SymPy library.
-* [Eigen Decomposition and Eigen Vectors](https://github.com/wingedrasengan927/linear-algebra/blob/main/eigenvectors.ipynb)
