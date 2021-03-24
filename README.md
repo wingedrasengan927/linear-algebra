@@ -32,6 +32,8 @@ Notes, Ideas, Problems, Experiments on various linear algebra concepts mainly fr
 * [Great Medium Article](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
 * [Great Paper](https://www.cs.princeton.edu/courses/archive/spring12/cos598C/svdchapter.pdf)
 ##### Notes
+* [The beauty of Orthonormal Eigen Vectors of a Matrix](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/The%20beauty%20of%20orthonormal%20eigen%20vectors%20of%20a%20matrix)
+* [Notes from the above princeton paper](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/Singular%20Value%20Decomposition%20(SVD).pdf)
 
 
 
