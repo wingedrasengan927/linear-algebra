@@ -38,4 +38,6 @@ Notes, Ideas, Problems, Experiments on various linear algebra concepts mainly fr
 ##### Notes
 * [The beauty of Orthonormal Eigen Vectors of a Matrix](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/The%20beauty%20of%20orthonormal%20eigen%20vectors%20of%20a%20matrix)
 * [Notes from the above princeton paper](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/Singular%20Value%20Decomposition%20(SVD).pdf)
+##### SVD Applications
+* [Image Approximation and Visualizing different components of the matrix](https://github.com/wingedrasengan927/linear-algebra/blob/main/image_approximation_svd.ipynb)
 
