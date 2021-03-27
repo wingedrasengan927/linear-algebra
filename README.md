@@ -40,4 +40,5 @@ Notes, Ideas, Problems, Experiments on various linear algebra concepts mainly fr
 * [Notes from the above princeton paper](https://github.com/wingedrasengan927/linear-algebra/blob/main/Notes/SVD/Singular%20Value%20Decomposition%20(SVD).pdf)
 ##### SVD Applications
 * [Image Approximation and Visualizing different components of the matrix](https://github.com/wingedrasengan927/linear-algebra/blob/main/image_approximation_svd.ipynb)
+* [Noise reduction](https://github.com/wingedrasengan927/linear-algebra/blob/main/noise_reduction_svd.ipynb)
 
